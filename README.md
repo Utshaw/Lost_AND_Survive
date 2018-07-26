@@ -26,11 +26,13 @@ This app helps the travelers by giving them particular advices for taking precau
 
  
 # Authors: 
-Member Name 1: Farhan Tanvir Utshaw 
-E-mail: farhan.tanvir.utshaw@gmail.com 
-Github; https://github.com/Utshaw
-Member Name 2: Waqar Hassan Khan 
-E-mail: waqar.hassan866@gmail.com 
-Github: https://github.com/Waqar-107
-Member Name 3: Ahmed Nafis Fuad  
-E-mail: 1505113.anf@ugrad.cse.buet.ac.bd 
+Member Name 1: Farhan Tanvir Utshaw <br>
+E-mail: farhan.tanvir.utshaw@gmail.com  <br>
+Github; https://github.com/Utshaw <br>
+<hr>
+Member Name 2: Waqar Hassan Khan  <br>
+E-mail: waqar.hassan866@gmail.com  <br>
+Github: https://github.com/Waqar-107 <br>
+<hr>
+Member Name 3: Ahmed Nafis Fuad  <br>
+E-mail: 1505113.anf@ugrad.cse.buet.ac.bd  <br>
